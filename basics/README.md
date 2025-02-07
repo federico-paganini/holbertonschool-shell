@@ -39,3 +39,5 @@ Sripts functionalities.
 15-lets_move > Moves all files beginning with an uppercase letter to the directory /tmp/u .
 
 16-clean_emacs > Delete all files in the current working directory that end with the character ~ .
+
+17-tree > Creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
