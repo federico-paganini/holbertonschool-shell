@@ -11,3 +11,6 @@ Sripts functionalities.
 3-listfiles > Display current directory contents in a long format.
 
 4-listmorefiles > Display current directory contents (including hidden files) in long format.
+
+5-listfilesdigitonly > Display current directory contents in: Long format, with users and groups IDs displayed numerically and
+		       hidden files.
