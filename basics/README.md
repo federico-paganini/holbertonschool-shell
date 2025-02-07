@@ -14,3 +14,5 @@ Sripts functionalities.
 
 5-listfilesdigitonly > Display current directory contents in: Long format, with users and groups IDs displayed numerically and
 		       hidden files.
+
+6-firstdirectory > Creates a directory named my_first_directory in the /tmp/ directory.
