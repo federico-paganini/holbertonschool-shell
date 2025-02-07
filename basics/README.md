@@ -22,3 +22,5 @@ Sripts functionalities.
 8-firstdelete > Deletes the file betty from /tmp/my_first_directory directory.
 
 9-firstdirdeletion > Delete the directory my_first_directory that is in the /tmp directory.
+
+10-back > Changes the working directory to the previous one.
