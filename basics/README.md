@@ -35,3 +35,5 @@ Sripts functionalities.
 14-copy_html > Copies all the HTML files from the current working directory to the parent of the working directory, but only copy
 	       files that did not exist in the parent of the working directory or were newer than the versions in the parent of
 	       the working directory.
+
+15-lets_move > Moves all files beginning with an uppercase letter to the directory /tmp/u .
