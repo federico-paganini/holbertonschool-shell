@@ -18,3 +18,6 @@ Scripts functionalities.
 7-everybody > Adds execution permission to the owner, the group owner and the other users, to the file hello.
 
 8-James_Bond > Sets the permissions to the file hello to: No permissions to owner and group; all te permissions to other users.
+
+9-John_Doe > Sets the permissions of the file hello to: All permisions to owner, read and execute permissions to group, write and 
+	     execute permissions to other users.
