@@ -23,3 +23,6 @@ Scripts functionalities.
 	     execute permissions to other users.
 
 10-mirror_permissions > Sets the mode of the fille hello the same as olleh's mode.
+
+11-directories_permissions >  Adds execute permission to all subdirectories of the current directory for the owner, the group owner 
+	       	              and all other users. Regular files should not be changed.
