@@ -28,3 +28,5 @@ Scripts functionalities.
 	       	              and all other users. Regular files should not be changed.
 
 12-directory_permissions > Creates a directory called my_dir with permissions 751 in the working directory.
+
+13-change_group > Changes the group owner to shcool for the file hello.
