@@ -21,3 +21,5 @@ Scripts functionalities.
 
 9-John_Doe > Sets the permissions of the file hello to: All permisions to owner, read and execute permissions to group, write and 
 	     execute permissions to other users.
+
+10-mirror_permissions > Sets the mode of the fille hello the same as olleh's mode.
