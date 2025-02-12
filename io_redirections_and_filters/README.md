@@ -46,3 +46,5 @@ Scripts functionallities detail.
 
 21-reverse > Write a script that reverse its input.
 
+22-users_and_homes > Displays all users and their home directories, sorted by users.
+
