@@ -25,3 +25,5 @@ Scripts functionallities detail
 10-love_exponent_breath > Displays the result of BREATH to the power LOVE.
 
 11-binary_to_decimal > Converts a number from base 2 to base 10.
+
+12-combinations > Prints all possible combinations of two letters, except 'oo'.
