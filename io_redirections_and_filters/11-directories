@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lRa | tail -n +2
+ls -lRa | sed -n '2p'
