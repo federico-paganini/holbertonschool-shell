@@ -50,3 +50,4 @@ Scripts functionallities detail.
 
 23-empty_casks > Finds all empty files and directories in the current directory and all sub-directories.
 
+24-acrostic > Decodes acrostics that use the first letter of each line.
